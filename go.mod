@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/go-openapi/spec v0.20.1
-	github.com/go-playground/universal-translator v0.17.0 // indirect
+	github.com/go-playground/validator/v10 v10.4.1
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.8.0
@@ -16,6 +16,5 @@ require (
 	github.com/uber/jaeger-lib v2.4.0+incompatible // indirect
 	golang.org/x/text v0.3.4
 	golang.org/x/tools v0.0.0-20200103221440-774c71fcf114
-	gopkg.in/go-playground/validator.v9 v9.17.1
 	gopkg.in/yaml.v2 v2.4.0
 )

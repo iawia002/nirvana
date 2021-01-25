@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"strings"
 
-	val "gopkg.in/go-playground/validator.v9"
+	val "github.com/go-playground/validator/v10"
 
 	"github.com/caicloud/nirvana/definition"
 	"github.com/caicloud/nirvana/errors"
